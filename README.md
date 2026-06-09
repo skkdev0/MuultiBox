@@ -1,7 +1,7 @@
 # 📦 Multi Box Engine & .hpk Ecosystem
 
 <p align="center">
-  <img src="YOUR_ICON_IMAGE_URL_HERE" alt="Multi Box Icon" width="150" height="150">
+  <img src="https://raw.githubusercontent.com/skkdev0/MuultiBox/refs/heads/main/app_icon.png" alt="Multi Box Icon" width="150" height="150">
 </p>
 
 <p align="center">
