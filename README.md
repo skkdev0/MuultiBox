@@ -72,7 +72,7 @@ We are actively refining individual data sandboxing for URL and HTML-based appli
 This project is currently open-source! We welcome developers to test, create innovative `.hpk` child apps, and contribute to the engine.
 
 * **Developer:** Sham Kumar Kshetri
-* **Telegram Channel:** [Join Our Official Telegram](YOUR_TELEGRAM_LINK_HERE) for instant updates, alpha releases, and documentation.
+* **Telegram Channel:** [Join Our Official Telegram](https://t.me/multiboxpro) for instant updates, alpha releases, and documentation.
 
 ---
 <p align="center">🛡️ Built for performance. Optimized for privacy. Engineered for freedom. 🛡️</p>
